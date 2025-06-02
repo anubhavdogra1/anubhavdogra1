@@ -12,6 +12,7 @@ I'm a data enthusiast with a passion for solving real-world problems using data 
 ## Let's Connect
 - 📧 Email: [anubhavdogra7@gmail.com](mailto:anubhavdogra7@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/anubhav-dogra](https://www.linkedin.com/in/anubhav-dogra/)
+- 🐙 GitHub: [github.com/anubhavdogra1](https://github.com/anubhavdogra1)
 - 📷 Instagram: [@anubhav.dogra](https://www.instagram.com/anubhav.dogra/)
 
 ---

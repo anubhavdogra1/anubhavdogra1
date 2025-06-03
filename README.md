@@ -1,5 +1,5 @@
 # Hi, I'm Anubhav Dogra!
-## (anubhavdogra1)
+## (@anubhavdogra1)
 
 I'm a data enthusiast with a passion for solving real-world problems using data science and machine learning. I enjoy building projects that blend data storytelling with actionable insights, and I’m always learning something new to sharpen my skills.
 

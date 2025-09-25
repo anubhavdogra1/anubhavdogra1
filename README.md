@@ -4,7 +4,7 @@
 I'm a data enthusiast with a passion for solving real-world problems using data science and machine learning. I enjoy building projects that blend data storytelling with actionable insights, and I’m always learning something new to sharpen my skills.
 
 ## Technologies & Tools
-- **Languages**: Python, SQL, Markdown
+- **Languages**: Python, SQL
 - **Data Science**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost, SHAP
 - **Machine Learning**: Classification, Regression, Clustering
 - **Tools**: Jupyter Notebook, VS Code, Git, GitHub

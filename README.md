@@ -8,7 +8,7 @@ I'm a data enthusiast with a passion for solving real-world problems using data 
 - **Data Science**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost, SHAP
 - **Machine Learning**: Classification, Regression, Clustering
 - **Tools**: Jupyter Notebook, VS Code, Git, GitHub
-- **Other**: Tableau, Excel
+- **Other**: Tableau, PowerBI, Excel
 
 ## Let's Connect
 - Email: [anubhavdogra7@gmail.com](mailto:anubhavdogra7@gmail.com)

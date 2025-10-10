@@ -1,20 +1,24 @@
-# Hi, I'm Anubhav Dogra!
-## (@anubhavdogra1)
+Projects showcasing my ability to clean, analyze, and visualize complex datasets using SQL, Excel, Python, Tableau, and Power BI. I specialize in delivering reproducible, efficient, and business-driven insights that solve real-world problems.
 
-I'm a data enthusiast with a passion for solving real-world problems using data science and machine learning. I enjoy building projects that blend data storytelling with actionable insights, and I’m always learning something new to sharpen my skills.
+## Technical Skills
 
-## Technologies & Tools
-- **Languages**: Python, SQL
-- **Data Science**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost, SHAP
-- **Machine Learning**: Classification, Regression, Clustering
-- **Tools**: Jupyter Notebook, VS Code, Git, GitHub
-- **Other**: Tableau, PowerBI, Excel
+- SQL
+- Excel
+- Python
+- Tableau
+- Power BI
+ 
+## Soft Skills
 
-## Let's Connect
-- Email: [anubhavdogra7@gmail.com](mailto:anubhavdogra7@gmail.com)
-- LinkedIn: [linkedin.com/in/anubhav-dogra](https://www.linkedin.com/in/anubhav-dogra/)
-- GitHub: [github.com/anubhavdogra1](https://github.com/anubhavdogra1)
-- Website: [My Portfolio](https://anubhavdogra.carrd.co/)
----
+- Teamwork
+- Leadership
+- Adaptability
+- Communication
+- Problem-Solving
+- Time Management
+- Critical Thinking
+  
+## Email Me
 
-⭐️ *Feel free to explore my repositories, fork projects, or reach out for collaborations!*
+- anubhavdogra7@gmail.com
+- dograanubhav77@gmail.com

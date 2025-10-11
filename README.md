@@ -6,7 +6,7 @@
 - Tableau
 - Power BI
  
-**Soft Skills**
+## Soft Skills
 
 - Teamwork
 - Leadership

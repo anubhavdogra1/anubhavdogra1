@@ -20,5 +20,4 @@
   
 ## Contact Me @
 
-anubhavdogra7@gmail.com <br>
-dograanubhav77@gmail.com
+anubhavdogra7@gmail.com

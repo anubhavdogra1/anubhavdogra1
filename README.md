@@ -12,9 +12,9 @@
 - Leadership
 - Adaptability
 - Communication
-- Problem-Solving
-- Time Management
-- Critical Thinking
+- Problem-solving
+- Time management
+- Critical thinking
   
 ## Contact Me @
 

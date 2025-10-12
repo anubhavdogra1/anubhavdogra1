@@ -13,8 +13,8 @@
 - Adaptability
 - Communication
 - Problem-solving
-- Time management
 - Critical thinking
+- Time management
   
 ## Contact Me @
 

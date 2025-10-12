@@ -12,8 +12,8 @@
 - Leadership
 - Adaptability
 - Communication
-- Problem-solving
 - Critical thinking
+- Problem-solving
 - Time management
   
 ## Contact Me @

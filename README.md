@@ -1,6 +1,6 @@
 ## About me
 
-A Recent graduate working as a volunteer data analyst at a non-profit organization. Eager to apply my skills to a full-time role. Skills: Python, SQL, Excel, Tableau, Power BI, Problem-solving, Teamwork
+Highly motivated recent graduate who is currently looking to apply his skills in the world of data analytics. Since graduating, I have been volunteering remotely as a data analyst at a non-profit organization. Eager to showcase my skills to a full-time job.
  
 ## Contact Me
 anubhavdogra7@gmail.com

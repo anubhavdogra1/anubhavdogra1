@@ -1,9 +1,8 @@
 ## About me
 
-Highly motivated recent graduate who is currently looking to apply his skills in the world of data analytics. Since graduating, I have been volunteering remotely as a data analyst at a non-profit organization. Eager to showcase my skills in a full-time job.
+Highly motivated recent MSBA graduate. Currently volunteering as a data analyst at a non-profit organization. Passionate about data analysis & visualization to tell insightful stories. I am eager to showcase my skills in the world of analytics.
 
-
-Skills - Python | SQL | Microsoft Excel | Tableau | Google Sheets | Power BI | Data Analysis | Agile Methodologies | Business Analysis Processes
+Skills - Python, SQL, Microsoft Excel, Google Sheets, Tableau (My Vizzes), Power BI, Data Analytics, Business Process Analysis, Agile methodologies, Problem-solving, Critical-thinking, Communication, Teamwork.
 
 ## Contact Me
 anubhavdogra7@gmail.com

@@ -1,8 +1,9 @@
-## About me
+# About me
 
-Highly motivated recent MSBA graduate. Currently volunteering as a data analyst at a non-profit organization. Passionate about data analysis & visualization to tell insightful stories. I am eager to showcase my skills in the world of analytics.
+Highly motivated recent MS Business Analytics graduate. Currently volunteering as a Data Analyst at a non-profit organization. Passionate about Data Analysis and Visualization to tell insightful stories. Eager to showcase my skills in the world of analytics.
 
-Skills - Python, SQL, Microsoft Excel, Google Sheets, Tableau (My Vizzes), Power BI, Data Analytics, Business Process Analysis, Agile methodologies, Problem-solving, Critical-thinking, Communication, Teamwork.
+# Skills
+Python, SQL, Advanced Microsoft Excel, Advanced Google Sheets; Advanced Data Analysis, Visualization, Insights & Storytelling with Tableau; Power BI, Data Analytics, ETL, Business Process Analysis, Agile Methodologies
 
-## Contact Me
+# Contact Me
 anubhavdogra7@gmail.com

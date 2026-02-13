@@ -1,3 +1,44 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1f77b4&height=180&section=header&text=Anubhav%20Dogra&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Data%20→%20Decisions&descAlignY=65"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=MS+Business+Analytics+Graduate;Data+Analyst+%7C+BI+%7C+ML;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI;Turning+Data+into+Business+Impact"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=anubhavdogra1&theme=default&ring=1f77b4&fire=00b4d8&currStreakLabel=1f77b4&sideLabels=1f77b4&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=00B4D8"/>
+  <img src="https://img.shields.io/badge/SQL-0d1b2a?style=for-the-badge&logo=postgresql&logoColor=00B4D8"/>
+  <img src="https://img.shields.io/badge/Tableau-0d1b2a?style=for-the-badge&logo=tableau&logoColor=00B4D8"/>
+  <img src="https://img.shields.io/badge/PowerBI-0d1b2a?style=for-the-badge&logo=powerbi&logoColor=00B4D8"/>
+  <img src="https://img.shields.io/badge/Excel-0d1b2a?style=for-the-badge&logo=microsoft-excel&logoColor=00B4D8"/>
+  <img src="https://img.shields.io/badge/R-0d1b2a?style=for-the-badge&logo=r&logoColor=00B4D8"/>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>🌍 Governance Analytics</b><br/>
+      30-country policy impact study<br/>
+      <a href="#">View Repo</a>
+    </td>
+    <td align="center" width="33%">
+      <b>🤖 Student Predictor</b><br/>
+      ML grade prediction model<br/>
+      <a href="#">View Repo</a>
+    </td>
+    <td align="center" width="33%">
+      <b>🛍 Retail EDA</b><br/>
+      Profit & customer insights<br/>
+      <a href="#">View Repo</a>
+    </td>
+  </tr>
+</table>
+
 ## 🌌 Anubhav Dogra | Data → Decisions
 
 “Turning raw data into real-world impact.”
@@ -85,15 +126,3 @@ Let’s connect and create. 🚀
 📧 anubhavdogra7@gmail.com
 
 🔗 https://github.com/anubhavdogra1
-
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhavdogra1&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anubhavdogra1&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavdogra1&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
-</p>
-

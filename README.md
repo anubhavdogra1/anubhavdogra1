@@ -1,14 +1,4 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1f77b4&height=180&section=header&text=Anubhav%20Dogra&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Data%20→%20Decisions&descAlignY=65"/>
-</p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=MS+Business+Analytics+Graduate;Data+Analyst+%7C+BI+%7C+ML;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI;Turning+Data+into+Business+Impact"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anubhavdogra1&theme=default&ring=1f77b4&fire=00b4d8&currStreakLabel=1f77b4&sideLabels=1f77b4&hide_border=true" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F77B4,100:00B4D8&height=6&section=header"/>
@@ -49,31 +39,6 @@
 
 <table align="center">
 
-## 🧠 Who Am I?
-
-I’m a data storyteller with a passion for uncovering patterns, optimizing decisions, and building intelligent dashboards & models.
-
-I blend:
-- Business thinking
-- Statistical rigor
-- Technical execution
-to solve problems that actually matter.
-
-## 📊 Live Dashboards
-
-👉 Explore my work:
-
 Tableau Public: https://public.tableau.com/app/profile/anubhavdogra/vizzes/
 
-## 💡 Let’s Build Something
-
-If you’re into:
-- Data-driven growth
-- Business intelligence
-- Data analytics
-
-Let’s connect and create. 🚀
-
-📧 anubhavdogra7@gmail.com
-
-🔗 https://github.com/anubhavdogra1
+Email: anubhavdogra7@gmail.com

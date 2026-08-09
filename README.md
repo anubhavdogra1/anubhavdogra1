@@ -2,6 +2,6 @@ Email - anubhavdogra7@gmail.com
 
 Linkedin - https://www.linkedin.com/in/anubhav-dogra
 
-Tableau - https://public.tableau.com/app/profile/anubhavdogra/vizzes/
+Tableau - [https://public.tableau.com/app/profile/anubhavdogra/vizzes/](https://public.tableau.com/app/profile/anubhav.dogra/vizzes)
 
 LeetCode - https://leetcode.com/u/anubhavdogra

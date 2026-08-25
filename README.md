@@ -1,5 +1,5 @@
 ## My Interests
-Artificial Intelligence | Multi Agentic Workflows | Agentic AI | Data Science | Data Analytics | Marketing Analytics | Machine Learning
+Artificial Intelligence | Agentic AI | Data Science | Data Analytics | Marketing Analytics | Machine Learning
 
 ## Contact
 Email - anubhavdogra7@gmail.com

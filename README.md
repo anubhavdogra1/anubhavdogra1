@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/anubhav-dogra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anubhavdogra7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://tableau.com/anubhav.dogra" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
+  <a href="https://public.tableau.com/app/profile/anubhav.dogra)" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
 </p>
 
 ---
@@ -33,65 +33,81 @@
 
 ---
 
+### Tech Stack
+
+**AI & LLM Engineering —**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/-Anthropic%20Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/-Amazon%20Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/-NVIDIA%20NeMo-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+Gemini Enterprise Agent Platform · Google ADK · BeeAI · aisuite
+
+**Agentic AI & Architecture —**
+Multi-Agent Systems · Agent Orchestration · RAG · ReAct · Reflection · Planning · Tool/Function Calling · MCP · A2A Protocol · Memory Systems (Semantic/Episodic/Procedural) · Guardrails · Prompt Engineering · Fine-Tuning · Knowledge Graphs
+
+**AI Evaluation & Observability —**
+![Arize Phoenix](https://img.shields.io/badge/-Arize%20Phoenix-4B0082?style=flat-square)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
+OpenInference · Ragas · LLM-as-a-Judge
+
+**Backend & APIs —**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+AsyncIO · REST APIs
+
+**Databases & Vector Stores —**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Chroma](https://img.shields.io/badge/-ChromaDB-FFC107?style=flat-square)
+Weaviate · DocArray · DuckDB · TinyDB
+
+**Data Science & ML —**
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+Seaborn
+
+**Analytics & BI —**
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Marketo](https://img.shields.io/badge/-Marketo-5C4C9F?style=flat-square&logo=marketo&logoColor=white)
+Adobe Analytics · Meta Analytics
+
+**Cloud & Data Platforms —**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+---
+
 ### About Me
 
-- MS in Business Analytics from **SUNY Albany** (GPA 3.3/4.0, Dean's Merit Award)
+- MS in Business Analytics from **SUNY Albany** (Dean's Merit Award)
 - I build **multi-agent AI systems** using LangChain, LangGraph, BeeAI, Google ADK, and NVIDIA NeMo Agent Toolkit
 - Deep interest in **RAG, Model Context Protocol (MCP), Agent2Agent (A2A) Protocol, and LLM observability/evaluation**
 - Background in data analytics — Tableau dashboards, EDA, and BI reporting
 - Currently exploring agent orchestration patterns, memory systems (semantic/episodic/procedural), and guardrails
 - Ask me about agentic AI architectures, RAG systems, or Tableau/BI storytelling
-
----
-
-### Tech Stack
-
-**AI & LLM Engineering**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/-Anthropic%20Claude-D4A574?style=flat-square)
-![Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Agentic AI & Architecture**
-Multi-Agent Systems · Agent Orchestration · RAG · ReAct · Reflection · Planning · Tool/Function Calling · MCP · A2A Protocol · Memory Systems · Guardrails · Prompt Engineering · Fine-Tuning · Knowledge Graphs
-
-**AI Evaluation & Observability**
-![Arize Phoenix](https://img.shields.io/badge/-Arize%20Phoenix-4B0082?style=flat-square)
-OpenInference · OpenTelemetry · Ragas · LLM-as-a-Judge
-
-**Backend & APIs**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-Pydantic · SQLAlchemy · AsyncIO · REST APIs
-
-**Databases & Vector Stores**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-ChromaDB · Weaviate · DocArray · DuckDB · TinyDB
-
-**Data Science & ML**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-Scikit-learn · Matplotlib · Seaborn · SQL
-
-**Analytics & BI**
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-Excel · Google Sheets · Looker · Google Analytics · Adobe Analytics
-
-**Cloud & Data Platforms**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-Snowflake · Databricks
 
 ---
 
@@ -101,3 +117,5 @@ Snowflake · Databricks
   <a href="https://linkedin.com/in/anubhav-dogra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anubhavdogra7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+

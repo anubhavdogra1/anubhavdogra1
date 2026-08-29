@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/anubhav-dogra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anubhavdogra7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://public.tableau.com/app/profile/anubhav.dogra)" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
+  <a href="https://public.tableau.com/app/profile/anubhav.dogra" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
 </p>
 
 ---

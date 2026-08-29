@@ -100,17 +100,6 @@ Adobe Analytics · Meta Analytics
 
 ---
 
-### About Me
-
-- MS in Business Analytics from **SUNY Albany** (Dean's Merit Award)
-- I build **multi-agent AI systems** using LangChain, LangGraph, BeeAI, Google ADK, and NVIDIA NeMo Agent Toolkit
-- Deep interest in **RAG, Model Context Protocol (MCP), Agent2Agent (A2A) Protocol, and LLM observability/evaluation**
-- Background in data analytics — Tableau dashboards, EDA, and BI reporting
-- Currently exploring agent orchestration patterns, memory systems (semantic/episodic/procedural), and guardrails
-- Ask me about agentic AI architectures, RAG systems, or Tableau/BI storytelling
-
----
-
 ### Let's Connect
 anubhavdogra7@gmail.com
 <p align="left">

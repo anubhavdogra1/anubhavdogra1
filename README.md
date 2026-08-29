@@ -9,6 +9,30 @@
 
 ---
 
+### Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Healthcare Concierge Multi-Agent System](https://github.com/anubhavdogra1/HealthServiceAgenticSystem) | Distributed multi-agent system coordinating 4 microservices via BeeAI & Google A2A protocol | BeeAI, LangChain, Claude, Gemini, FastMCP, A2A |
+| [Climate Intelligence & Multi-Agent Analysis Platform](https://github.com/anubhavdogra1/NvidiaNeMoAgentToolKitMakingAgentsReliable) | ReAct agent with NVIDIA NAT + Llama 3.1 70B; cut tool calls 70% and raised accuracy to 100% | NAT, LangGraph, Llama 3.1, Arize Phoenix, Ragas |
+| [Autonomous Multi-Agent Marketing Pipeline](https://github.com/anubhavdogra1/AgenticAIMarketResearchTeam) | Stateful 4-agent LangGraph pipeline automating campaign creation end-to-end | LangGraph, OpenAI, Tavily |
+| [Multi-Server AI Research Assistant (MCP)](https://github.com/anubhavdogra1/MCPBuildRichContextAIAppsWithAnthropic) | MCP client-server ecosystem for automated academic research via Claude | FastMCP, Claude API, arXiv API |
+| [Autonomous Multi-Agent Research System](https://github.com/anubhavdogra1/AIAgentsInLangGraph) | AI essay-writing system with reflection loops and human-in-the-loop checkpoints | LangGraph, OpenAI, Tavily, SQLite |
+| [RAG-Based E-Commerce Support Chatbot](https://github.com/anubhavdogra1/RAGbasedECommerceSupportChatbot) | RAG chatbot with vector search over product/FAQ data and distributed tracing | Weaviate, Flask, LangChain |
+| [Autonomous Multi-Agent AI System with Tool Orchestration & Reflection](https://github.com/anubhavdogra1/AgenticAISpecialization) | End-to-end multi-agent system using ReAct, Reflection, and Planning-in-Code patterns | aisuite, OpenAI, Anthropic, FastAPI, SQLite, DuckDB |
+| [LLM Application Development & Evaluation Engine](https://github.com/anubhavdogra1/LangChainForLLMApplicationDevelopment) | Document-grounded RAG Q&A system with ReAct agents and automated LLM-graded evaluation | LangChain, OpenAI API, DocArray |
+| [Retrieval-Augmented Generation (RAG) Chatbot](https://github.com/anubhavdogra1/LangChainChatWithYourData) | Conversational chatbot with PDF/Notion/audio ingestion and MMR-optimized retrieval | LangChain, OpenAI API, ChromaDB, Panel, Whisper |
+| [Conversational AI Agent & Tool Orchestration](https://github.com/anubhavdogra1/FunctionsToolsAgentsWithLangChain) | Autonomous agent using LCEL and OpenAI Function Calling to dynamically select tools | LangChain (LCEL), OpenAI, Pydantic, Panel |
+| [AI Email Assistant](https://github.com/anubhavdogra1/LongTermAgenticMemoryWithLangGraph) | Autonomous agent for email triage, response drafting, and scheduling with layered memory | LangGraph, LangChain, LangMem, OpenAI API |
+| [AI Subreddit Automation Bot](https://reddit.com/r/AITechBusiness) | 24/7 cloud-native agent that monitors posts and generates contextual replies | TypeScript, Node.js, Redis, Gemini Flash, Devvit API |
+| [Medical Appointment No-Show Prediction](https://github.com/anubhavdogra1/MedicalAppointmentNoShowsPrediction) | Gradient Boosting classifier on 110K records to flag high-risk no-show appointments | Python, Pandas, NumPy, Seaborn, Matplotlib |
+| [Superstore Sales & Profitability Dashboard](https://public.tableau.com/app/profile/anubhav.dogra/viz/SuperStore8_17493730603280/Story1) | Interactive Tableau story tracking sales, margins, and regional performance | Tableau, Excel, CSV |
+| [Business Requirements Document Analysis](https://github.com/anubhavdogra1/BusinessRequirementsDocument) | Functional requirements with process flow diagram and domain model | Google Docs, Diagrams.net |
+
+*More projects on my [repositories page](https://github.com/anubhavdogra1?tab=repositories) →*
+
+---
+
 ### About Me
 
 - MS in Business Analytics from **SUNY Albany** (GPA 3.3/4.0, Dean's Merit Award)
@@ -71,43 +95,11 @@ Snowflake · Databricks
 
 ---
 
-### Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Healthcare Concierge Multi-Agent System](https://github.com/anubhavdogra1/HealthServiceAgenticSystem) | Distributed multi-agent system coordinating 4 microservices via BeeAI & Google A2A protocol | BeeAI, LangChain, Claude, Gemini, FastMCP, A2A |
-| [Climate Intelligence & Multi-Agent Analysis Platform](https://github.com/anubhavdogra1/NvidiaNeMoAgentToolKitMakingAgentsReliable) | ReAct agent with NVIDIA NAT + Llama 3.1 70B; cut tool calls 70% and raised accuracy to 100% | NAT, LangGraph, Llama 3.1, Arize Phoenix, Ragas |
-| [Autonomous Multi-Agent Marketing Pipeline](https://github.com/anubhavdogra1/AgenticAIMarketResearchTeam) | Stateful 4-agent LangGraph pipeline automating campaign creation end-to-end | LangGraph, OpenAI, Tavily |
-| [Multi-Server AI Research Assistant (MCP)](https://github.com/anubhavdogra1/MCPBuildRichContextAIAppsWithAnthropic) | MCP client-server ecosystem for automated academic research via Claude | FastMCP, Claude API, arXiv API |
-| [Autonomous Multi-Agent Research System](https://github.com/anubhavdogra1/AIAgentsInLangGraph) | AI essay-writing system with reflection loops and human-in-the-loop checkpoints | LangGraph, OpenAI, Tavily, SQLite |
-| [RAG-Based E-Commerce Support Chatbot](https://github.com/anubhavdogra1/RAGbasedECommerceSupportChatbot) | RAG chatbot with vector search over product/FAQ data and distributed tracing | Weaviate, Flask, LangChain |
-| [Autonomous Multi-Agent AI System with Tool Orchestration & Reflection](https://github.com/anubhavdogra1/AgenticAISpecialization) | End-to-end multi-agent system using ReAct, Reflection, and Planning-in-Code patterns | aisuite, OpenAI, Anthropic, FastAPI, SQLite, DuckDB |
-| [LLM Application Development & Evaluation Engine](https://github.com/anubhavdogra1/LangChainForLLMApplicationDevelopment) | Document-grounded RAG Q&A system with ReAct agents and automated LLM-graded evaluation | LangChain, OpenAI API, DocArray |
-| [Retrieval-Augmented Generation (RAG) Chatbot](https://github.com/anubhavdogra1/LangChainChatWithYourData) | Conversational chatbot with PDF/Notion/audio ingestion and MMR-optimized retrieval | LangChain, OpenAI API, ChromaDB, Panel, Whisper |
-| [Conversational AI Agent & Tool Orchestration](https://github.com/anubhavdogra1/FunctionsToolsAgentsWithLangChain) | Autonomous agent using LCEL and OpenAI Function Calling to dynamically select tools | LangChain (LCEL), OpenAI, Pydantic, Panel |
-| [AI Email Assistant](https://github.com/anubhavdogra1/LongTermAgenticMemoryWithLangGraph) | Autonomous agent for email triage, response drafting, and scheduling with layered memory | LangGraph, LangChain, LangMem, OpenAI API |
-| [AI Subreddit Automation Bot](https://reddit.com/r/AITechBusiness) | 24/7 cloud-native agent that monitors posts and generates contextual replies | TypeScript, Node.js, Redis, Gemini Flash, Devvit API |
-| [Medical Appointment No-Show Prediction](https://github.com/anubhavdogra1/MedicalAppointmentNoShowsPrediction) | Gradient Boosting classifier on 110K records to flag high-risk no-show appointments | Python, Pandas, NumPy, Seaborn, Matplotlib |
-| [Superstore Sales & Profitability Dashboard](https://public.tableau.com/app/profile/anubhav.dogra/viz/SuperStore8_17493730603280/Story1) | Interactive Tableau story tracking sales, margins, and regional performance | Tableau, Excel, CSV |
-| [Business Requirements Document Analysis](https://github.com/anubhavdogra1/BusinessRequirementsDocument) | Functional requirements with process flow diagram and domain model | Google Docs, Diagrams.net |
-
-*More projects on my [repositories page](https://github.com/anubhavdogra1?tab=repositories) →*
-
----
-
 ### Experience
 
 - **Data Analyst Volunteer**, Translation Commons — Migrated 50+ GB of legacy data, cutting retrieval time by 30%
 - **Data Analyst Intern**, Steel Authority of India Limited — Built Tableau dashboards used by 20+ stakeholders to track KPIs
 - **Data Analyst Intern**, Steel Authority of India Limited — Conducted EDA on 5 years of historical data, informing a 15% budget reallocation
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavdogra1&theme=default" alt="GitHub Streak"/>
-</p>
 
 ---
 

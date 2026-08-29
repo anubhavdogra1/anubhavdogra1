@@ -95,14 +95,6 @@ Snowflake · Databricks
 
 ---
 
-### Experience
-
-- **Data Analyst Volunteer**, Translation Commons — Migrated 50+ GB of legacy data, cutting retrieval time by 30%
-- **Data Analyst Intern**, Steel Authority of India Limited — Built Tableau dashboards used by 20+ stakeholders to track KPIs
-- **Data Analyst Intern**, Steel Authority of India Limited — Conducted EDA on 5 years of historical data, informing a 15% budget reallocation
-
----
-
 ### Let's Connect
 
 <p align="center">

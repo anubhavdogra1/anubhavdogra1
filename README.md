@@ -34,7 +34,7 @@
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/-NVIDIA%20NeMo-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-Gemini Enterprise Agent Platform · Google ADK · BeeAI · aisuite
+Gemini Enterprise Agent Platform · Google ADK · BeeAI · aisuite · Generative AI
 
 **Agentic AI & Architecture —**
 Multi-Agent Systems · Agent Orchestration · RAG · ReAct · Reflection · Planning · Tool/Function Calling · MCP · A2A Protocol · Memory Systems (Semantic/Episodic/Procedural) · Guardrails · Prompt Engineering · Fine-Tuning · Knowledge Graphs

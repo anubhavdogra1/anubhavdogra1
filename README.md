@@ -1,14 +1,3 @@
-<h1 align="left">Hi, I'm Anubhav Dogra</h1>
-<h3 align="left">Data Analyst & Agentic AI / LLM Engineer building multi-agent systems, RAG pipelines, and AI-powered analytics</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/anubhav-dogra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anubhavdogra7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://public.tableau.com/app/profile/anubhav.dogra" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
-</p>
-
----
-
 ### Featured Projects
 
 | Project | Description | Tech |
@@ -97,6 +86,17 @@ Adobe Analytics · Meta Analytics
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+---
+
+### About me
+Data Analyst & Agentic AI / LLM Engineer building multi-agent systems, RAG pipelines, and AI-powered analytics
+
+<p align="left">
+  <a href="https://linkedin.com/in/anubhav-dogra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anubhavdogra7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://public.tableau.com/app/profile/anubhav.dogra" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
+</p>
 
 ---
 

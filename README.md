@@ -6,9 +6,11 @@ Data Analyst & Agentic AI/LLM Engineer | Turning data into decisions & LLMs into
   <a href="https://public.tableau.com/app/profile/anubhav.dogra" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
 </p>
 
-### Featured Projects
+---
 
-| Project | Description | Tech |
+### Projects
+
+| Project | Description | Tech Stack |
 |---|---|---|
 | [Healthcare Concierge Multi-Agent System](https://github.com/anubhavdogra1/HealthServiceAgenticSystem) | Distributed multi-agent system coordinating 4 microservices via BeeAI & Google A2A protocol | BeeAI, LangChain, Claude, Gemini, FastMCP, A2A |
 | [Climate Intelligence & Multi-Agent Analysis Platform](https://github.com/anubhavdogra1/NvidiaNeMoAgentToolKitMakingAgentsReliable) | ReAct agent with NVIDIA NAT + Llama 3.1 70B; cut tool calls 70% and raised accuracy to 100% | NAT, LangGraph, Llama 3.1, Arize Phoenix, Ragas |

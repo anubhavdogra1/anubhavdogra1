@@ -1,7 +1,9 @@
 ### About me
 Agentic AI/LLM Engineer | Turning LLMs into agents
 
-I build data and AI systems that hold up outside a demo — from BI dashboards to multi-agent AI pipelines. I started in data analysis: dashboards, EDA, and stakeholder reporting at Steel Authority of India, then business analytics at SUNY Albany. Since then, I've built a series of agentic AI projects — a multi-agent healthcare system (BeeAI, Google's A2A protocol), a climate analytics platform (NVIDIA NeMo Agent Toolkit), and an autonomous marketing pipeline that researches, writes, and designs campaigns end-to-end.
+I build data and AI systems that hold up outside a demo — from BI dashboards to multi-agent AI pipelines.
+
+I started in data analysis: dashboards, EDA, and stakeholder reporting at Steel Authority of India, then business analytics at SUNY Albany. Since then, I've built a series of agentic AI projects — a multi-agent healthcare system (BeeAI, Google's A2A protocol), a climate analytics platform (NVIDIA NeMo Agent Toolkit), and an autonomous marketing pipeline that researches, writes, and designs campaigns end-to-end.
 
 I care most about reliability: I spend as much time on evaluation and observability (Arize Phoenix, Ragas, OpenTelemetry) as on the agents themselves — one project went from 0% to 100% answer accuracy after fixing a silent data bug.
 

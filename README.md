@@ -1,5 +1,5 @@
 ### About me
-Data Scientist | Agentic AI/LLM Engineer | Turning LLMs into agents
+Data Scientist | Agentic AI/LLM Engineer | Turning Data into decisions and LLMs into agents
 
 I build data and AI systems that hold up outside a demo — from BI dashboards to multi-agent AI pipelines.
 
